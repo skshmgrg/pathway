@@ -7,7 +7,7 @@ const Navbar = () => {
       {/* Left side - Logo */}
       <div className="flex items-center space-x-2">
       <SiChatbot />
-        <h1 className="text-xl font-semibold">ChatApp</h1>
+        <h1 className="text-xl font-semibold">PathWay</h1>
       </div>
 
       {/* Right side - Icons */}
